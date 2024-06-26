@@ -1,5 +1,5 @@
-
 flask
 pytesseract
 camelot
 opencv-python 
+camelot-tables
