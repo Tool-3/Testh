@@ -1,5 +1,3 @@
-flask
-pytesseract
-camelot
-opencv-python 
-camelot-tables
+streamlit 
+pandas 
+pdfplumber
